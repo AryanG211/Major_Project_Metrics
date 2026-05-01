@@ -11,8 +11,8 @@ import io
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Aryan@211",
-    "database": "PROJECT"
+    "password": "your_Password",
+    "database": "DBNAME"
 }
 
 # ------------------ DB Connection ------------------
